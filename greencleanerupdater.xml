@@ -41,6 +41,7 @@
         <title>Version 5.0</title>
         <sparkle:version>5.0</sparkle:version>
         <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
+       <enclosure url="https://hetzner.greenclean.greenstreets.pl/api/v1/www/app.apk" sparkle:version="5.0" sparkle:os="android" />
     </item>
   </channel>
 </rss>
