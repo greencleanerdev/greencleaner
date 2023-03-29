@@ -42,7 +42,7 @@
       <link>https://sparkle-project.org</link>
       <sparkle:version>5.0</sparkle:version>
       <description>
-      <![CDATA[ <ol> <li>Zarejsetruj się</li><li>Zapłać</li><li>i możesz odkurzać</li> </ol> ]]>
+      <ol> <li>Zarejsetruj się</li><li>Zapłać</li><li>i możesz odkurzać</li> </ol>
       </description>
       <pubDate>Sat, 25 Mar 2023 15:20:11 +0000</pubDate>
       <enclosure url="https://sparkle-project.org/files/Sparkle%20Test%20App.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw=="/>
