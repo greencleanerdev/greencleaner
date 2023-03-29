@@ -38,7 +38,7 @@
     </item>
     <!-- A joke release testing maximumSystemVersion -->
     <item>
-      <title>Wersja 6.0</title>
+      <title>Wersja 6.1</title>
       <link>https://sparkle-project.org</link>h
       <sparkle:version>6.0</sparkle:version>
       <description>
