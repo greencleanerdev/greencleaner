@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>For unit test only</title>
+    <title>Serwis Informacycjny o aplikacji Green Cleaner</title>
     <item>
         <title>Version 2.0</title>
         <description>Wersja początkowa</description>
@@ -38,10 +38,14 @@
     </item>
     <!-- A joke release testing maximumSystemVersion -->
     <item>
-        <title>Version 5.0</title>
-        <sparkle:version>5.0</sparkle:version>
-        <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
-       <enclosure url="https://hetzner.greenclean.greenstreets.pl/api/v1/www/app.apk" sparkle:version="5.0" sparkle:os="android" />
+      <title>Wersja 5.0</title>
+      <link>https://sparkle-project.org</link>
+      <sparkle:version>5.0</sparkle:version>
+      <description>
+      <![CDATA[ <ol> <li>Zarejsetruj się</li><li>Zapłać</li><li>i możesz odkurzać</li> </ol> ]]>
+      </description>
+      <pubDate>Sat, 25 Mar 2023 15:20:11 +0000</pubDate>
+      <enclosure url="https://sparkle-project.org/files/Sparkle%20Test%20App.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw=="/>
     </item>
   </channel>
 </rss>
