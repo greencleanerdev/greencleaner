@@ -9,6 +9,13 @@
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0.0+4" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
+      <item>
+        <title>Version 1.0.0+6</title>
+        <description>Poprawki w działaniu</description>
+        <pubDate>Sat, 18 May 2023 11:24:11 +0000</pubDate>
+        <enclosure url="https://hetzner.greenclean.greenstreets.pl/api/v1/www/app.apk" sparkle:version="1.0.0+6" />
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+    </item>
     <!-- The best chosen release -->
     <item>
         <title>Version 2.0.0</title>
